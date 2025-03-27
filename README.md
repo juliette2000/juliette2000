@@ -66,12 +66,21 @@
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=BD93F9&repeat=false&width=435&lines=%F0%9F%93%88+My+GitHub+Stats" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4EE3F6&repeat=false&width=435&lines=%F0%9F%93%88+My+GitHub+Stats" alt="Typing SVG" />
 </a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliette2000&show_icons=true&theme=dracula" width="350" alt="GitHub Stats" />
+<table align="center">
+  <tr>
+   <td style="width: 350px; height: 495px; vertical-align: top;">
+      <img src="https://media.giphy.com/media/HgVMsDaeTV2JxHoxta/giphy.webp" alt="Aesthetic Anime GIF" style="width: 100%; height: 100%; object-fit: cover;" />
+    </td>
 
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliette2000&show_icons=true&locale=en&layout=compact&theme=dracula" width="350" alt="Top Languages" />
-</div>
+  <td width="400px" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=juliette2000&show_icons=true&theme=blueberry" width="350" />
+     <!--br />
+     <img src="https://streak-stats.demolab.com?user=juliette2000&theme=blueberry&cache_seconds=1" width="350" /-->
+     <br />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliette2000&layout=compact&theme=blueberry" width="350" />
+  </td>
+  </tr>
+</table>
