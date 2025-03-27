@@ -39,8 +39,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=Asteroid-Harvesters&theme=radical" />
   </a>
 
-  <a href="https://github.com/juliette2000/Coen-243">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=Coen-243&theme=tokyonight" />
+  <a href="https://github.com/juliette2000/Programming-Methodology-I">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=Programming-Methodology-I&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/juliette2000/COEN311">
@@ -51,8 +51,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=soen341_group3&theme=radical" />
   </a>
 
-  <a href="https://github.com/juliette2000/COEN313">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=COEN313&theme=tokyonight" />
+  <a href="https://github.com/juliette2000/Computer-Organization-and-Software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=Computer-Organization-and-Software&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/juliette2000/COEN316">
