@@ -71,8 +71,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juliette2000&show_icons=true&theme=dracula" width="350" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=juliette2000&theme=dracula" width="350" alt="GitHub Streak" />
+
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliette2000&show_icons=true&locale=en&layout=compact&theme=dracula" width="350" alt="Top Languages" />
 </div>
