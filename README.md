@@ -43,20 +43,20 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=Programming-Methodology-I&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/juliette2000/COEN311">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=COEN311&theme=tokyonight" />
+  <a href="https://github.com/juliette2000/Computer-Organization-and-Software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=Computer-Organization-and-Software&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/juliette2000/soen341_group3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=soen341_group3&theme=radical" />
   </a>
 
-  <a href="https://github.com/juliette2000/Computer-Organization-and-Software">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=Computer-Organization-and-Software&theme=tokyonight" />
+  <a href="https://github.com/juliette2000/Digital-Systems-Design-II">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=Digital-Systems-Design-II&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/juliette2000/COEN316">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=COEN316&theme=radical" />
+  <a href="https://github.com/juliette2000/Computer-Architecture-and-Design">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliette2000&repo=Computer-Architecture-and-Design&theme=radical" />
   </a>
 
 </div>
