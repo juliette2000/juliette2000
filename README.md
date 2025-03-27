@@ -28,7 +28,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </p>
 
-
+---
+<!-- #4EE3F6FF -->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=BD93F9&repeat=false&width=435&lines=%F0%9F%9A%80+Academic+Projects" alt="Typing SVG" />
