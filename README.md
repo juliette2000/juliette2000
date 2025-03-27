@@ -1,5 +1,5 @@
-<h1 align="center">XuJin Chen</h1>
-## 💻 My Tech Stack
+<h1 align="center">✨ XuJin Chen ✨</h1>
+<p align="center">💻 Computer Engineering</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
