@@ -16,9 +16,6 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Language" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-chip-coding-and-development-flat-flat-juicy-fish.png" alt="VHDL" width="40" height="40"/>
-<span style="font-size:14px; color:white;">VHDL</span>
-
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle Database" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/00758F/sql.png" alt="SQL" width="40" height="40"/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode" width="40" height="40"/> 
