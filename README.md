@@ -16,13 +16,14 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Language" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" alt="VHDL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle Database" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/00758F/sql.png" alt="SQL" width="40" height="40"/>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg" alt="android" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="40" height="40"/> 
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="PyCharm" width="40" height="40"/> 
   <img src="https://img.icons8.com/ios-filled/50/33CC99/atom-editor.png" alt="Atom" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
